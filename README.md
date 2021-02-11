@@ -1,2 +1,4 @@
 # Projet_MachineLearning
-Prédiction de la faillite des entreprises polonaises
+Polish companies bankruptcy
+
+https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data
